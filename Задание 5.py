@@ -8,3 +8,4 @@ if a>b:
     print("Pribil firmu na 1go sotrudnika",ps)
 else:
     print("Firma rabotaet v ubitok")
+    #

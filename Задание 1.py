@@ -9,3 +9,4 @@ model=input("Vvedite model")
 data_vypuska=int(input("Vvedite god vupyska"))
 volume=float(input("Vvedite obem dvagatelya"))
 print(marka,model,data_vypuska,volume)
+#

@@ -7,3 +7,4 @@ e=int(n)
 suma=e+d+c
 s=f"{n}+{a}+{b}={suma}"
 print(s)
+#

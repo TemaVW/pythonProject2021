@@ -7,3 +7,4 @@ while a<=b+b*0.1:
     d=d+1
 print(f'Na {d-1}den sportsmen dostignet rezultata - ne menee{b}km')
 
+#

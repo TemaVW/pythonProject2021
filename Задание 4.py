@@ -9,3 +9,4 @@ while b>0:
         a=b%10
     b=b//10
 print(a)
+#

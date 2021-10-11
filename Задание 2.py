@@ -6,3 +6,4 @@ min=(time//60)%60
 hour=time//3600
 chasu=f"{hour}:{min}:{sec}"
 print(chasu)
+#
